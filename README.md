@@ -21,6 +21,8 @@ dataset paper: https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3
 
 inhibitory connectivity paper: https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3
 
+CAVE: https://www.biorxiv.org/content/10.1101/2023.07.26.550598v1
+
 ### Neuroglancer: data visualization and exploration
 
 Launch the viewer with preselected interesting states from the [MICrONs-Explorer Gallery page](https://www.microns-explorer.org/gallery-mm3 ).
