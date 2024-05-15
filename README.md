@@ -13,7 +13,7 @@ Manuscript describing the dataset: https://www.biorxiv.org/content/10.1101/2021.
 
 ### Dataset introduction
 
-TBA
+slides: https://docs.google.com/presentation/d/1gEOZAE9B-IlOkxbOEulgOgTp0XWfhbtk__Ve3Cjvc64/edit?usp=sharing
 
 ### Neuroglancer: data visualization and exploration
 
