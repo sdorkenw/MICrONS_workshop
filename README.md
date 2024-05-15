@@ -35,4 +35,4 @@ Follow the tutorial for [setup and quickstart here](https://github.com/sdorkenw/
 
 There are two options for following the tutorial and doing the exercises:
 1. Local: [Create a new conda environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) using Python 3.11 (specificall not 3.12!) and `pip install caveclient` into it as well as your favorite notebook package (e.g. `pip install jupyter`).
-2. Online: Head over to [colab.research.google](colab.research.google) (requires GMail or GMail-enable account). On the left side select "GitHub" and paste in the link to the notebook on github.
+2. Online: Head over to [colab.research.google](https://colab.research.google.com/) (requires GMail or GMail-enable account). On the left side select "GitHub" and paste in the link to the notebook on github.
