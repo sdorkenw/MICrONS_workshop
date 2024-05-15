@@ -25,7 +25,7 @@ Launch a [beta] [spelunker neuroglancer viewer](https://spelunker.cave-explorer.
 
 ### DashApps: interactive online analysis
 
-Browse the data tables, including cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?cell-type-table-menu=%22%22&mat-version=943&anno-id=%22%22&id-type=%22root_id%22&cell-type=%22%22&value-column-search=%22%22&datastack=%22minnie65_public%22).
+Browse the data tables, including cell type classifications with the [Table Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/table_viewer/?datastack=%22minnie65_public%22).
 
 Query and visualzie the synaptic connectivity of neurons with the [Connectivity Viewer](https://minnie.microns-daf.com/dash/datastack/minnie65_public/apps/connectivity/?anno-id=%22%22&id-type=%22root_id%22&mat-version=943&cell-type-table-dropdown=%22%22&datastack=%22minnie65_public%22)
 
