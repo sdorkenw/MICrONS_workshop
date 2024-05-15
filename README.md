@@ -15,6 +15,10 @@ Manuscript describing the dataset: https://www.biorxiv.org/content/10.1101/2021.
 
 slides: https://docs.google.com/presentation/d/1gEOZAE9B-IlOkxbOEulgOgTp0XWfhbtk__Ve3Cjvc64/edit?usp=sharing
 
+cell type model paper: https://www.biorxiv.org/content/10.1101/2022.07.20.499976v2
+dataset paper: https://www.biorxiv.org/content/10.1101/2021.07.28.454025v3
+inhibitory connectivity paper: https://www.biorxiv.org/content/10.1101/2023.01.23.525290v3
+
 ### Neuroglancer: data visualization and exploration
 
 Launch the viewer with preselected interesting states from the [MICrONs-Explorer Gallery page](https://www.microns-explorer.org/gallery-mm3 ).
